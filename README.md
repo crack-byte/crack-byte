@@ -1,7 +1,7 @@
 # Abhishek Purohit a.k.a @crack-byte 
 
 ## About Me
-Hi, I'm Abhishek Senior Associate Java Developer at OodlesTechnologies pvt ltd currently working on a project [Bhaasha]([Foo](http://foo.com)). I am from Uttarakhand(India) , currently living in faridabad(Delhi-NCR). I am highly interested in learning Japanese Culture. So, Currently trying to learn japanese language from basics.let's hope that i would be able to speak japanese within a year.
+Hi, I'm Abhishek Senior Associate Java Developer at Witty Brains Technologies pvt ltd currently working on a project [Brightlink]. I am from Uttarakhand(India) , currently living in faridabad(Delhi-NCR). I am highly interested in learning Japanese Culture. So, Currently trying to learn japanese language from basics.let's hope that i would be able to speak japanese within a year.
 
 ## Hobbies
 - :sweat_smile: Exploring anything that bugs me.
